@@ -2,7 +2,7 @@
 
 It is a roguelike game that we try to escape in 60 seconds.
 
-![İsimsiz video ‐ Clipchamp ile yapıldı (1)](https://github.com/ERENSISMAN61/SixtyGame/assets/93434398/32a10530-7b36-4d54-8c4b-b9350ddfc76d)
+![İsimsiz video ‐ Clipchamp ile yapıldı (6)](https://github.com/ERENSISMAN61/SixtyGame/assets/93434398/d301e2e9-d07a-4c7d-bc1a-894246ecfec0)
 
 ![İsimsiz video ‐ Clipchamp ile yapıldı (1)](https://github.com/ERENSISMAN61/SixtyGame/assets/93434398/ab3f0dfe-026f-47be-ac63-8f451a43c726)
 
